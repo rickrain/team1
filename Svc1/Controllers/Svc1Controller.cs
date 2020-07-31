@@ -10,7 +10,7 @@ namespace Svc1.Controllers
         [HttpGet]
         public String Get()
         {
-            return "Hello from 'Svc1'";
+            return "Hello from new and improved 'Svc1'";
         }
     }
 }
